@@ -8,6 +8,12 @@
 
 > Render a large list using SectionList
 
+## 📢 Advertisement
+
+<img src="https://raw.githubusercontent.com/fptqnk17/.github/refs/heads/main/images/banner-bao-thu.png" alt="Advertisement" />
+
+---
+
 ## Documents
 
 - Document: [Assignment 1](docs/Assignment%201.docx)
